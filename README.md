@@ -1,3 +1,3 @@
 # Reign in Hell
 
-https://raw.githubusercontent.com/RosterizerTestData/Reign-in-Hell/main/Reign-in-Hell.rulebook
+https://raw.githubusercontent.com/RosterizerData/Reign-in-Hell/main/Reign-in-Hell.rulebook
